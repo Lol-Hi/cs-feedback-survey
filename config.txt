@@ -1,0 +1,33 @@
+Name of Excel file: responses.xlsx
+Name of Excel sheet: Form responses 1
+
+Words to leave out (for free-response): nil, na, none, -, –, everything, nothing, your mum
+No. of sentences in summary (for free-response): 5
+
+Name of output Word Document: response_analysis.docx
+
+~~~~~~~~~DO NOT EDIT BELOW~~~~~~~~~~
+Format:
+<question no.>: <type of question>
+Types of questions include:
+- demographic (will not be analysed)
+- numeric (e.g. scale, age)
+- categorical (e.g. MCQs)
+- free-response
+~~~~~~~~DO NOT EDIT ABOVE~~~~~~~~~~~
+
+1: demographic
+2: demographic
+3: demographic
+4: demographic
+5: numeric
+6: numeric
+7: numeric
+8: numeric
+9: numeric
+10: numeric
+11: categorical
+12: free-response
+13: free-response
+14: free-response
+15: categorical
